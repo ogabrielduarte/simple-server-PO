@@ -1,0 +1,17 @@
+{
+    "name": "Gab's NuProject",
+    "short_name": "NuProject",
+    "description": "A simple NuProject",
+    "start_url": "/index.html",
+    "scope": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/icon1.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
